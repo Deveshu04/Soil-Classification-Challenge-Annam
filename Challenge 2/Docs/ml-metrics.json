@@ -1,0 +1,15 @@
+{
+  "_comment": "This JSON file contains the metrics of our model",
+  "Name": "Deveshu Pathak",
+  "Kaggle Username": "deveshupathak",
+  "Team Name": "Deveshu Pathak",
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "alluvial soil": 1.00,
+    "red soil": 1.00,
+    "black soil": 1.00,
+    "clay soil": 1.00
+  },
+  "minimum f1-score": 1.00,
+  "accuracy": 1.00,
+}
